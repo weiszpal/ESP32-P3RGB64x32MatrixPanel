@@ -1,4 +1,4 @@
-Using P3RGB64x32MatrixPanel library for ESP32 by NeoCat:
+I used the ESP32 DEVKIT V1 board for my project. Pinout can be found - for example - here: See ESP-32 DEVKIT V1 pinout at http://wiki.amperka.ru/_media/products:esp32-wroom-wifi-devkit-v1:esp32-wroom-wifi-devkit-v1_pinout.pdf
 
 # ESP32 Arduino library for P3 64x32 RGB LED Matrix Panel.
 
